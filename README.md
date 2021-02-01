@@ -1,8 +1,9 @@
-## face detect
+## 言語ノック
 
 ### Overview
-Kerasで顔分類モデルを作成し、Cascade検出器を用いて顔検出を行いました。
+Pythonを用いた言語ノック
 
 
-reference　https://aidemy.hatenablog.com/entry/2017/12/17/214715
+
+reference　https://nlp100.github.io/ja/
 
